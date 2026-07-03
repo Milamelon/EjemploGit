@@ -22,4 +22,13 @@ img[alt="Jihyo"] {
     height: 350px;
 }
 
+.descripcion{
+    text-align: center;
+    font-family: Arial;
+    color: #000000;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
 
