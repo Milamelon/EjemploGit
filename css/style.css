@@ -1,18 +1,12 @@
-/*body{
-    margin-top: 150px;
-    align-items: center;
-    text-align: center;
-    font-family: Arial;
-    margin: 0;
-    padding: 0;
+body{
     background-color: #ffffeb;
-}*/
+}
 
 .titulo{
     margin-top: 50px;
     text-align: center;
     font-family: Arial;
-    color: #fbff7e;
+    color: #c8cc55;
 }
 
 .tinicial{
