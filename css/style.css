@@ -15,7 +15,11 @@ body{
     color: #000000;
 }
 
-.img1{
+img[alt="Jihyo"] {
     display: block;
-    margin: 0 auto;
+    margin: 40px auto 0;
+    width: 350px;
+    height: 350px;
 }
+
+
