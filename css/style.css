@@ -1,8 +1,16 @@
-body{
+/*body{
+    margin-top: 150px;
     align-items: center;
     text-align: center;
     font-family: Arial;
     margin: 0;
     padding: 0;
-    background-color: #feffbe;
+    background-color: #ffffeb;
+}*/
+
+.titulo{
+    margin-top: 50px;
+    text-align: center;
+    font-family: Arial;
+    color: #fbff7e;
 }
